@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "bundles": [
+    {
+      "name": "n8n",
+      "version": "2.3.3",
+      "description": "Workflow automation tool",
+      "coreUrl": "https://github.com/amitkhare/zyntax-packages/releases/download/n8n-v2.3.3/n8n-core.tar.zst",
+      "modulesUrl": "https://github.com/amitkhare/zyntax-packages/releases/download/n8n-v2.3.3/n8n-modules.tar.zst",
+      "coreSize": 1122875,
+      "modulesSize": 109094688,
+      "coreFiles": 11,
+      "modulesFiles": 147791,
+      "installPath": "lib/n8n",
+      "binName": "n8n",
+      "binTarget": "../lib/n8n/bin/n8n",
+      "requires": ["nodejs"]
+    }
+  ]
+}
