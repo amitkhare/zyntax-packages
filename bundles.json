@@ -2,7 +2,7 @@
   "version": 1,
   "bundles": [
     {
-      "name": "n8n 2",
+      "name": "n8n",
       "version": "2.3.3",
       "description": "Workflow automation tool",
       "coreUrl": "https://github.com/amitkhare/zyntax-packages/releases/download/n8n-v2.3.3/n8n-core.tar.xz",
